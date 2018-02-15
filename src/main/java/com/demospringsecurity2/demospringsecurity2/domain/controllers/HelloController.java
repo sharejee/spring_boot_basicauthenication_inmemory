@@ -1,4 +1,4 @@
-package com.demospringsecurity2.demospringsecurity2.domain;
+package com.demospringsecurity2.demospringsecurity2.domain.controllers;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.userdetails.UserDetailsService;
